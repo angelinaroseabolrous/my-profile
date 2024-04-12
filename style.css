@@ -1,0 +1,122 @@
+body {
+background-color: #f1edf5;
+color: #352547;
+font-family: andale mono;
+line-height: 20px;
+text-align: center;
+}
+
+.btn-blue {
+background-color:#472869;
+color: floralwhite;
+padding: 6px 20px;
+border-radius: 4px;
+}
+
+.btn-blue:hover {
+background-color:#787276;
+color: floralwhite;
+
+}
+
+h1 {
+color: #472869;
+font-family: impact;
+text-align: center;
+letter-spacing: 0.25em;
+}
+
+a{
+text-decoration: none;
+}
+h2, h3, h4 {
+font-family: impact;
+letter-spacing: 0.15em;
+color: rgba(83, 71, 123,1);
+}
+
+a {
+text-decoration: none;
+color: #FFDDCC;
+}
+
+a:hover {
+color: rgb(255, 0, 127);
+}
+
+.profile {
+border-radius: 50%;
+max-width: 100%;
+height: auto;
+}
+
+
+#intro {
+background-color: #dbd5e7;
+
+}
+
+#intro p {
+margin-bottom: 20px;
+
+}
+#section2 {
+background-color: #d4c9de;
+
+}
+
+#section3 {
+background-color: #c1b7d0;
+
+}
+
+#section4 {
+background-color: #a395b1;
+
+}
+
+#section5 {
+background-color: #937ea8;
+
+}
+.font-styles {
+margin-bottom: 20px;
+justify-content: center;
+border-radius: 7px;
+box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+margin: 40px auto;
+width:700px;
+padding: 60px;
+}
+
+.list-inline {
+list-style: none;
+padding-left: 0px;
+}
+
+.list-inline li {
+display: inline;
+padding: 10px;
+}
+
+.list-inline i {
+font-size: 30px;
+color: #dbd5e7;
+}
+
+.list-inline i:hover {
+color: #472869;
+}
+
+#section4 {
+  text-align: center;
+
+}
+
+.elfsight-app-a8443c11-c67f-4e1d-a9d5-0fbd2d25c4f1 {
+  margin: 0 auto;
+  display: flex;
+justify-content: center;
+align-items: center;
+
+}
